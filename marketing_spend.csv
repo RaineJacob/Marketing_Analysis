@@ -1,0 +1,311 @@
+Date,Channel,Campaign Name,Spend ($)
+2024-12-01,Google Ads,Google Campaign 3,1360
+2024-12-01,Meta Ads,Meta Campaign 1,4272
+2024-12-01,Email,Email Campaign 3,966
+2024-12-01,Influencer,Influencer Campaign 3,4926
+2024-12-01,LinkedIn Ads,LinkedIn Campaign 4,3944
+2024-12-02,Google Ads,Google Campaign 4,3419
+2024-12-02,Meta Ads,Meta Campaign 2,630
+2024-12-02,Email,Email Campaign 4,1269
+2024-12-02,Influencer,Influencer Campaign 4,2933
+2024-12-02,LinkedIn Ads,LinkedIn Campaign 4,1684
+2024-12-03,Google Ads,Google Campaign 2,3885
+2024-12-03,Meta Ads,Meta Campaign 1,3404
+2024-12-03,Email,Email Campaign 3,974
+2024-12-03,Influencer,Influencer Campaign 2,3058
+2024-12-03,LinkedIn Ads,LinkedIn Campaign 4,2547
+2024-12-04,Google Ads,Google Campaign 4,3247
+2024-12-04,Meta Ads,Meta Campaign 2,2306
+2024-12-04,Email,Email Campaign 2,3234
+2024-12-04,Influencer,Influencer Campaign 3,2399
+2024-12-04,LinkedIn Ads,LinkedIn Campaign 4,1767
+2024-12-05,Google Ads,Google Campaign 3,2028
+2024-12-05,Meta Ads,Meta Campaign 3,4056
+2024-12-05,Email,Email Campaign 1,1146
+2024-12-05,Influencer,Influencer Campaign 3,3388
+2024-12-05,LinkedIn Ads,LinkedIn Campaign 1,2935
+2024-12-06,Google Ads,Google Campaign 2,2863
+2024-12-06,Meta Ads,Meta Campaign 2,741
+2024-12-06,Email,Email Campaign 2,3324
+2024-12-06,Influencer,Influencer Campaign 2,3112
+2024-12-06,LinkedIn Ads,LinkedIn Campaign 4,1863
+2024-12-07,Google Ads,Google Campaign 4,1978
+2024-12-07,Meta Ads,Meta Campaign 4,3056
+2024-12-07,Email,Email Campaign 3,4514
+2024-12-07,Influencer,Influencer Campaign 4,3652
+2024-12-07,LinkedIn Ads,LinkedIn Campaign 4,2085
+2024-12-08,Google Ads,Google Campaign 2,3573
+2024-12-08,Meta Ads,Meta Campaign 2,3961
+2024-12-08,Email,Email Campaign 2,4343
+2024-12-08,Influencer,Influencer Campaign 3,2000
+2024-12-08,LinkedIn Ads,LinkedIn Campaign 2,661
+2024-12-09,Google Ads,Google Campaign 4,2481
+2024-12-09,Meta Ads,Meta Campaign 4,3842
+2024-12-09,Email,Email Campaign 4,4298
+2024-12-09,Influencer,Influencer Campaign 2,1516
+2024-12-09,LinkedIn Ads,LinkedIn Campaign 3,837
+2024-12-10,Google Ads,Google Campaign 4,1576
+2024-12-10,Meta Ads,Meta Campaign 1,4493
+2024-12-10,Email,Email Campaign 1,879
+2024-12-10,Influencer,Influencer Campaign 1,2562
+2024-12-10,LinkedIn Ads,LinkedIn Campaign 1,564
+2024-12-11,Google Ads,Google Campaign 4,3068
+2024-12-11,Meta Ads,Meta Campaign 4,2527
+2024-12-11,Email,Email Campaign 3,1995
+2024-12-11,Influencer,Influencer Campaign 3,891
+2024-12-11,LinkedIn Ads,LinkedIn Campaign 1,4974
+2024-12-12,Google Ads,Google Campaign 3,4061
+2024-12-12,Meta Ads,Meta Campaign 3,3599
+2024-12-12,Email,Email Campaign 4,700
+2024-12-12,Influencer,Influencer Campaign 4,3604
+2024-12-12,LinkedIn Ads,LinkedIn Campaign 2,2954
+2024-12-13,Google Ads,Google Campaign 3,1304
+2024-12-13,Meta Ads,Meta Campaign 4,3231
+2024-12-13,Email,Email Campaign 3,3273
+2024-12-13,Influencer,Influencer Campaign 1,2070
+2024-12-13,LinkedIn Ads,LinkedIn Campaign 1,3190
+2024-12-14,Google Ads,Google Campaign 2,1528
+2024-12-14,Meta Ads,Meta Campaign 3,1002
+2024-12-14,Email,Email Campaign 3,4993
+2024-12-14,Influencer,Influencer Campaign 3,4988
+2024-12-14,LinkedIn Ads,LinkedIn Campaign 3,1984
+2024-12-15,Google Ads,Google Campaign 3,1363
+2024-12-15,Meta Ads,Meta Campaign 1,1063
+2024-12-15,Email,Email Campaign 4,4691
+2024-12-15,Influencer,Influencer Campaign 1,2257
+2024-12-15,LinkedIn Ads,LinkedIn Campaign 3,2178
+2024-12-16,Google Ads,Google Campaign 1,1559
+2024-12-16,Meta Ads,Meta Campaign 3,2222
+2024-12-16,Email,Email Campaign 4,3657
+2024-12-16,Influencer,Influencer Campaign 2,3125
+2024-12-16,LinkedIn Ads,LinkedIn Campaign 1,2097
+2024-12-17,Google Ads,Google Campaign 2,3560
+2024-12-17,Meta Ads,Meta Campaign 4,4127
+2024-12-17,Email,Email Campaign 3,2481
+2024-12-17,Influencer,Influencer Campaign 2,2163
+2024-12-17,LinkedIn Ads,LinkedIn Campaign 4,2538
+2024-12-18,Google Ads,Google Campaign 2,3802
+2024-12-18,Meta Ads,Meta Campaign 2,1806
+2024-12-18,Email,Email Campaign 1,3175
+2024-12-18,Influencer,Influencer Campaign 3,1782
+2024-12-18,LinkedIn Ads,LinkedIn Campaign 4,1209
+2024-12-19,Google Ads,Google Campaign 1,4913
+2024-12-19,Meta Ads,Meta Campaign 3,1163
+2024-12-19,Email,Email Campaign 4,3945
+2024-12-19,Influencer,Influencer Campaign 1,1995
+2024-12-19,LinkedIn Ads,LinkedIn Campaign 1,4263
+2024-12-20,Google Ads,Google Campaign 1,2353
+2024-12-20,Meta Ads,Meta Campaign 2,1791
+2024-12-20,Email,Email Campaign 3,3957
+2024-12-20,Influencer,Influencer Campaign 1,2136
+2024-12-20,LinkedIn Ads,LinkedIn Campaign 1,3499
+2024-12-21,Google Ads,Google Campaign 1,1198
+2024-12-21,Meta Ads,Meta Campaign 2,4597
+2024-12-21,Email,Email Campaign 1,1354
+2024-12-21,Influencer,Influencer Campaign 2,3974
+2024-12-21,LinkedIn Ads,LinkedIn Campaign 2,2207
+2024-12-22,Google Ads,Google Campaign 4,2233
+2024-12-22,Meta Ads,Meta Campaign 3,4010
+2024-12-22,Email,Email Campaign 3,3755
+2024-12-22,Influencer,Influencer Campaign 3,4996
+2024-12-22,LinkedIn Ads,LinkedIn Campaign 4,4889
+2024-12-23,Google Ads,Google Campaign 2,3431
+2024-12-23,Meta Ads,Meta Campaign 2,697
+2024-12-23,Email,Email Campaign 3,2430
+2024-12-23,Influencer,Influencer Campaign 1,1108
+2024-12-23,LinkedIn Ads,LinkedIn Campaign 3,1647
+2024-12-24,Google Ads,Google Campaign 4,3897
+2024-12-24,Meta Ads,Meta Campaign 4,2294
+2024-12-24,Email,Email Campaign 3,3311
+2024-12-24,Influencer,Influencer Campaign 3,1869
+2024-12-24,LinkedIn Ads,LinkedIn Campaign 4,646
+2024-12-25,Google Ads,Google Campaign 3,3411
+2024-12-25,Meta Ads,Meta Campaign 1,2343
+2024-12-25,Email,Email Campaign 4,3476
+2024-12-25,Influencer,Influencer Campaign 4,2885
+2024-12-25,LinkedIn Ads,LinkedIn Campaign 4,2302
+2024-12-26,Google Ads,Google Campaign 2,4561
+2024-12-26,Meta Ads,Meta Campaign 4,762
+2024-12-26,Email,Email Campaign 1,1123
+2024-12-26,Influencer,Influencer Campaign 1,4143
+2024-12-26,LinkedIn Ads,LinkedIn Campaign 1,2549
+2024-12-27,Google Ads,Google Campaign 1,4223
+2024-12-27,Meta Ads,Meta Campaign 4,3608
+2024-12-27,Email,Email Campaign 3,4590
+2024-12-27,Influencer,Influencer Campaign 1,2556
+2024-12-27,LinkedIn Ads,LinkedIn Campaign 3,3670
+2024-12-28,Google Ads,Google Campaign 3,2755
+2024-12-28,Meta Ads,Meta Campaign 4,4999
+2024-12-28,Email,Email Campaign 1,3691
+2024-12-28,Influencer,Influencer Campaign 4,4491
+2024-12-28,LinkedIn Ads,LinkedIn Campaign 4,2148
+2024-12-29,Google Ads,Google Campaign 4,1945
+2024-12-29,Meta Ads,Meta Campaign 2,4423
+2024-12-29,Email,Email Campaign 2,3683
+2024-12-29,Influencer,Influencer Campaign 1,598
+2024-12-29,LinkedIn Ads,LinkedIn Campaign 4,3461
+2024-12-30,Google Ads,Google Campaign 2,4933
+2024-12-30,Meta Ads,Meta Campaign 3,3369
+2024-12-30,Email,Email Campaign 1,4291
+2024-12-30,Influencer,Influencer Campaign 1,4567
+2024-12-30,LinkedIn Ads,LinkedIn Campaign 1,4993
+2024-12-31,Google Ads,Google Campaign 4,4487
+2024-12-31,Meta Ads,Meta Campaign 1,1718
+2024-12-31,Email,Email Campaign 4,3604
+2024-12-31,Influencer,Influencer Campaign 3,1454
+2024-12-31,LinkedIn Ads,LinkedIn Campaign 2,3946
+2025-01-01,Google Ads,Google Campaign 2,2193
+2025-01-01,Meta Ads,Meta Campaign 3,3936
+2025-01-01,Email,Email Campaign 4,2985
+2025-01-01,Influencer,Influencer Campaign 3,3854
+2025-01-01,LinkedIn Ads,LinkedIn Campaign 1,725
+2025-01-02,Google Ads,Google Campaign 1,1459
+2025-01-02,Meta Ads,Meta Campaign 1,3567
+2025-01-02,Email,Email Campaign 3,1315
+2025-01-02,Influencer,Influencer Campaign 4,3620
+2025-01-02,LinkedIn Ads,LinkedIn Campaign 4,516
+2025-01-03,Google Ads,Google Campaign 2,1743
+2025-01-03,Meta Ads,Meta Campaign 2,3024
+2025-01-03,Email,Email Campaign 2,3944
+2025-01-03,Influencer,Influencer Campaign 4,1560
+2025-01-03,LinkedIn Ads,LinkedIn Campaign 1,3920
+2025-01-04,Google Ads,Google Campaign 1,801
+2025-01-04,Meta Ads,Meta Campaign 3,1106
+2025-01-04,Email,Email Campaign 1,1199
+2025-01-04,Influencer,Influencer Campaign 3,1639
+2025-01-04,LinkedIn Ads,LinkedIn Campaign 1,2800
+2025-01-05,Google Ads,Google Campaign 3,3475
+2025-01-05,Meta Ads,Meta Campaign 4,1684
+2025-01-05,Email,Email Campaign 4,3894
+2025-01-05,Influencer,Influencer Campaign 1,2565
+2025-01-05,LinkedIn Ads,LinkedIn Campaign 3,1069
+2025-01-06,Google Ads,Google Campaign 2,2395
+2025-01-06,Meta Ads,Meta Campaign 2,4363
+2025-01-06,Email,Email Campaign 2,4514
+2025-01-06,Influencer,Influencer Campaign 2,2186
+2025-01-06,LinkedIn Ads,LinkedIn Campaign 2,654
+2025-01-07,Google Ads,Google Campaign 2,1909
+2025-01-07,Meta Ads,Meta Campaign 4,1284
+2025-01-07,Email,Email Campaign 4,4841
+2025-01-07,Influencer,Influencer Campaign 2,3306
+2025-01-07,LinkedIn Ads,LinkedIn Campaign 1,2341
+2025-01-08,Google Ads,Google Campaign 1,2955
+2025-01-08,Meta Ads,Meta Campaign 1,3450
+2025-01-08,Email,Email Campaign 1,4631
+2025-01-08,Influencer,Influencer Campaign 1,4615
+2025-01-08,LinkedIn Ads,LinkedIn Campaign 4,4347
+2025-01-09,Google Ads,Google Campaign 2,4995
+2025-01-09,Meta Ads,Meta Campaign 3,1471
+2025-01-09,Email,Email Campaign 4,1666
+2025-01-09,Influencer,Influencer Campaign 3,3274
+2025-01-09,LinkedIn Ads,LinkedIn Campaign 3,1353
+2025-01-10,Google Ads,Google Campaign 2,4236
+2025-01-10,Meta Ads,Meta Campaign 2,1074
+2025-01-10,Email,Email Campaign 2,1648
+2025-01-10,Influencer,Influencer Campaign 2,2215
+2025-01-10,LinkedIn Ads,LinkedIn Campaign 2,4354
+2025-01-11,Google Ads,Google Campaign 1,2991
+2025-01-11,Meta Ads,Meta Campaign 4,3624
+2025-01-11,Email,Email Campaign 4,3551
+2025-01-11,Influencer,Influencer Campaign 3,504
+2025-01-11,LinkedIn Ads,LinkedIn Campaign 4,1376
+2025-01-12,Google Ads,Google Campaign 3,4642
+2025-01-12,Meta Ads,Meta Campaign 2,4864
+2025-01-12,Email,Email Campaign 2,1135
+2025-01-12,Influencer,Influencer Campaign 3,2193
+2025-01-12,LinkedIn Ads,LinkedIn Campaign 3,619
+2025-01-13,Google Ads,Google Campaign 2,4175
+2025-01-13,Meta Ads,Meta Campaign 1,1869
+2025-01-13,Email,Email Campaign 2,616
+2025-01-13,Influencer,Influencer Campaign 3,3338
+2025-01-13,LinkedIn Ads,LinkedIn Campaign 1,2431
+2025-01-14,Google Ads,Google Campaign 2,2164
+2025-01-14,Meta Ads,Meta Campaign 3,1012
+2025-01-14,Email,Email Campaign 4,3349
+2025-01-14,Influencer,Influencer Campaign 1,1059
+2025-01-14,LinkedIn Ads,LinkedIn Campaign 1,3843
+2025-01-15,Google Ads,Google Campaign 4,4570
+2025-01-15,Meta Ads,Meta Campaign 1,1970
+2025-01-15,Email,Email Campaign 3,2794
+2025-01-15,Influencer,Influencer Campaign 2,3647
+2025-01-15,LinkedIn Ads,LinkedIn Campaign 3,2179
+2025-01-16,Google Ads,Google Campaign 1,3244
+2025-01-16,Meta Ads,Meta Campaign 4,4545
+2025-01-16,Email,Email Campaign 1,3618
+2025-01-16,Influencer,Influencer Campaign 2,2641
+2025-01-16,LinkedIn Ads,LinkedIn Campaign 1,3559
+2025-01-17,Google Ads,Google Campaign 2,3459
+2025-01-17,Meta Ads,Meta Campaign 1,2979
+2025-01-17,Email,Email Campaign 1,2135
+2025-01-17,Influencer,Influencer Campaign 1,2257
+2025-01-17,LinkedIn Ads,LinkedIn Campaign 2,2570
+2025-01-18,Google Ads,Google Campaign 4,3349
+2025-01-18,Meta Ads,Meta Campaign 2,4230
+2025-01-18,Email,Email Campaign 1,2131
+2025-01-18,Influencer,Influencer Campaign 1,1515
+2025-01-18,LinkedIn Ads,LinkedIn Campaign 4,3587
+2025-01-19,Google Ads,Google Campaign 3,835
+2025-01-19,Meta Ads,Meta Campaign 4,1395
+2025-01-19,Email,Email Campaign 4,4046
+2025-01-19,Influencer,Influencer Campaign 4,2187
+2025-01-19,LinkedIn Ads,LinkedIn Campaign 4,4246
+2025-01-20,Google Ads,Google Campaign 1,2068
+2025-01-20,Meta Ads,Meta Campaign 3,3238
+2025-01-20,Email,Email Campaign 3,4413
+2025-01-20,Influencer,Influencer Campaign 1,4880
+2025-01-20,LinkedIn Ads,LinkedIn Campaign 3,4607
+2025-01-21,Google Ads,Google Campaign 2,3873
+2025-01-21,Meta Ads,Meta Campaign 2,3046
+2025-01-21,Email,Email Campaign 3,2582
+2025-01-21,Influencer,Influencer Campaign 2,3396
+2025-01-21,LinkedIn Ads,LinkedIn Campaign 1,1275
+2025-01-22,Google Ads,Google Campaign 2,2125
+2025-01-22,Meta Ads,Meta Campaign 3,917
+2025-01-22,Email,Email Campaign 3,1116
+2025-01-22,Influencer,Influencer Campaign 2,3767
+2025-01-22,LinkedIn Ads,LinkedIn Campaign 3,2016
+2025-01-23,Google Ads,Google Campaign 4,912
+2025-01-23,Meta Ads,Meta Campaign 1,1228
+2025-01-23,Email,Email Campaign 4,3308
+2025-01-23,Influencer,Influencer Campaign 1,3965
+2025-01-23,LinkedIn Ads,LinkedIn Campaign 4,3004
+2025-01-24,Google Ads,Google Campaign 1,3286
+2025-01-24,Meta Ads,Meta Campaign 4,1622
+2025-01-24,Email,Email Campaign 2,2071
+2025-01-24,Influencer,Influencer Campaign 4,2643
+2025-01-24,LinkedIn Ads,LinkedIn Campaign 4,4632
+2025-01-25,Google Ads,Google Campaign 3,3940
+2025-01-25,Meta Ads,Meta Campaign 1,2826
+2025-01-25,Email,Email Campaign 1,3414
+2025-01-25,Influencer,Influencer Campaign 2,4452
+2025-01-25,LinkedIn Ads,LinkedIn Campaign 4,1095
+2025-01-26,Google Ads,Google Campaign 2,1228
+2025-01-26,Meta Ads,Meta Campaign 3,4992
+2025-01-26,Email,Email Campaign 1,895
+2025-01-26,Influencer,Influencer Campaign 1,4671
+2025-01-26,LinkedIn Ads,LinkedIn Campaign 4,3002
+2025-01-27,Google Ads,Google Campaign 3,1217
+2025-01-27,Meta Ads,Meta Campaign 3,4077
+2025-01-27,Email,Email Campaign 1,643
+2025-01-27,Influencer,Influencer Campaign 3,3640
+2025-01-27,LinkedIn Ads,LinkedIn Campaign 1,4991
+2025-01-28,Google Ads,Google Campaign 1,3438
+2025-01-28,Meta Ads,Meta Campaign 3,4136
+2025-01-28,Email,Email Campaign 1,1667
+2025-01-28,Influencer,Influencer Campaign 1,1562
+2025-01-28,LinkedIn Ads,LinkedIn Campaign 2,3482
+2025-01-29,Google Ads,Google Campaign 2,3794
+2025-01-29,Meta Ads,Meta Campaign 3,1656
+2025-01-29,Email,Email Campaign 3,1232
+2025-01-29,Influencer,Influencer Campaign 4,1453
+2025-01-29,LinkedIn Ads,LinkedIn Campaign 2,3824
+2025-01-30,Google Ads,Google Campaign 2,2042
+2025-01-30,Meta Ads,Meta Campaign 2,1691
+2025-01-30,Email,Email Campaign 3,3493
+2025-01-30,Influencer,Influencer Campaign 2,3181
+2025-01-30,LinkedIn Ads,LinkedIn Campaign 1,2040
+2025-01-31,Google Ads,Google Campaign 2,3736
+2025-01-31,Meta Ads,Meta Campaign 4,2886
+2025-01-31,Email,Email Campaign 1,1888
+2025-01-31,Influencer,Influencer Campaign 4,1865
+2025-01-31,LinkedIn Ads,LinkedIn Campaign 3,2180
